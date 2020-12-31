@@ -1,10 +1,10 @@
-package frame;
+package service;
 
 /**
- * @ClassName AdminFrame
+ * @ClassName UserService
  * @Description TODO
  * @Author 1
  * @Date 2020/12/30
  **/
-public class AdminFrame {
+public class UserService {
 }

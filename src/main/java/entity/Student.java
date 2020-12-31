@@ -13,5 +13,11 @@ import lombok.NoArgsConstructor;
 @Builder
 @Data
 public class User {
-    String reader;
+    String readerId;
+    String readerName;
+    String readerSex;
+    String phone;
+    String dept;
+    String situation;
+    String borrowAdd;
 }
