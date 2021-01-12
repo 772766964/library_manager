@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Builder
 @Data
-public class User {
+public class Student {
     String readerId;
     String readerName;
     String readerSex;
@@ -20,4 +20,5 @@ public class User {
     String dept;
     String situation;
     String borrowAdd;
+    String img;
 }

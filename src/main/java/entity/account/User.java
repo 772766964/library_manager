@@ -1,5 +1,6 @@
-package entity;
+package entity.account;
 
+import entity.account.AllAccount;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

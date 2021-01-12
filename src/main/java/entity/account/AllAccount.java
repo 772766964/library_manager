@@ -1,4 +1,4 @@
-package entity;
+package entity.account;
 
 /**
  * @author 1
